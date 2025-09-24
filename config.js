@@ -15,8 +15,8 @@ style: 'mapbox://styles/masolano2003/cmfy696gt00ed01qw6hi8gal8',
     theme: 'dark',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Your Title Goes Here',
-    subtitle: 'The Storytelling Template helps you create an awesome animated map story with ease.',
+    title: 'Faros La Palma',
+    subtitle: 'Story Map de Faros de La Palma',
     byline: 'By a I.M. Amapper',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
